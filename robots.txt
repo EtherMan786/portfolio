@@ -1,0 +1,14 @@
+# Specify location of the sitemap
+Sitemap: https://www.https://portfolio-etherman.netlify.app/sitemap.xml
+
+# Allow all crawlers to access everything except the /private/ directory
+User-agent: *
+Disallow: /private/
+
+# Block all crawlers from accessing the /admin/ section
+User-agent: *
+Disallow: /admin/
+
+# Allow Googlebot to access a specific section while blocking others
+User-agent: Googlebot
+Allow: /google-only/
