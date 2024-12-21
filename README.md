@@ -21,7 +21,7 @@ Access the live portfolio here: [Portfolio - Etherman](https://portfolio-etherma
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js
-- **Deployment**: Netlify
+- **Deployment**: Netlify, Vercel
 
 ---
 
@@ -29,7 +29,7 @@ Access the live portfolio here: [Portfolio - Etherman](https://portfolio-etherma
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/EtherMan786/portfolio.git
     ```
 
 2. **Navigate to the Project Directory**:
