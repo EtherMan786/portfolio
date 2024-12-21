@@ -1,5 +1,5 @@
 # Specify location of the sitemap
-Sitemap: https://www.https://portfolio-etherman.netlify.app/sitemap.xml
+Sitemap: https://portfolio-etherman.netlify.app/sitemap.xml
 
 # Allow all crawlers to access everything except the /private/ directory
 User-agent: *
